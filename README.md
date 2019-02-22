@@ -4,9 +4,10 @@ Multithread Quicksort
 # Example
 
 ```js
-import tsort from 't-sort';
+import thsort from 'th-sort';
 
 (async () => {
+	// array is defined somewhere earlier
     const sorted = await tsort(array);
 })()
 

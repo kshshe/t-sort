@@ -1,5 +1,5 @@
 {
-  "name": "@kshshe/t-sort",
+  "name": "th-sort",
   "version": "0.0.1",
   "description": "Multithread Quicksort",
   "main": "index.js",

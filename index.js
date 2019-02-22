@@ -1,6 +1,6 @@
 import TPromise from "thread-promises";
 
-export default function tsort(items) {
+export default function thsort(items) {
 	return new TPromise(
 		(resolve, items) => {
 			function swap(items, firstIndex, secondIndex) {
