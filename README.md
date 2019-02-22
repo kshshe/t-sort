@@ -24,3 +24,9 @@ tsort(array)
 
 	})
 ```
+
+# Installing
+
+```bash
+npm i --save th-sort
+```
