@@ -1,0 +1,27 @@
+{
+  "name": "t-sort",
+  "version": "1.0.0",
+  "description": "Multithread Quicksort",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kshshe/t-sort.git"
+  },
+  "keywords": [
+    "multithread",
+    "thread",
+    "sort"
+  ],
+  "author": "kshshe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kshshe/t-sort/issues"
+  },
+  "homepage": "https://github.com/kshshe/t-sort#readme",
+  "dependencies": {
+    "thread-promises": "^1.4.0"
+  }
+}
