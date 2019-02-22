@@ -1,7 +1,7 @@
 # th-sort
 Multithread Quicksort
 
-Simple quicksort algorythm in other thread. It is many times faster then sync/async sorting when you need to sort many items. 
+Simple quicksort algorythm in other thread. It is many times faster then async sorting when you need to sort many items. 
 
 # Example
 
