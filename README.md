@@ -5,7 +5,7 @@ Simple quicksort algorythm in other thread. It is many times faster then sync/as
 
 # Example
 
-(sandbox)[https://codesandbox.io/s/qvpm7qvr5j] where you can sort one array in main thread and in separated thread.
+[sandbox](https://codesandbox.io/s/qvpm7qvr5j) where you can sort one array in main thread and in separated thread.
 
 # Usage
 
